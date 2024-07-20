@@ -1,4 +1,4 @@
-# Automation
+# Automation in Python
 Programa em Python que pega dados de usuário de uma planilha, acessa site com estes Dados e reescreve em outra planilha as informações recebidas do site.
 
 Python program that takes user data from a spreadsheet, accesses the website with this data and rewrites the information received from the website in another spreadsheet.
